@@ -1,0 +1,9 @@
+File f = new File("./java.oop");
+System.out.println("aaa:" +f);
+
+System.out.println("aaa:"+f.exists());
+
+
+
+System.out.println("aaa:"+f.isDirectory());
+       
